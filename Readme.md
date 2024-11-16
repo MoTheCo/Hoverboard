@@ -14,11 +14,11 @@ Dieses Projekt implementiert eine virtuelle Tastatur mit Java Swing. Es ermögli
 ## Installation
 
 1. **Voraussetzungen**: Stellen Sie sicher, dass Java installiert ist.
-2. **Kompilierung**: Kompilieren Sie die Java-Datei `VirtualKeyboard.java` mit einem geeigneten Java-Compiler.
+2. **Kompilierung**: Kompilieren Sie die Java-Datei `Hoverboard.java` mit einem geeigneten Java-Compiler.
 3. **Ausführung**: Führen Sie die kompilierte Datei aus:
 
    ```bash
-   java VirtualKeyboard
+   java Hoverboard
    ```
 
 ## Nutzung
